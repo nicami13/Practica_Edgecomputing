@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "app_id": "app_00e82f2d-b87f-43fe-badd-83ffd95ff099",
+      "org_id": "user_53eee219-5d7e-4899-8fc8-70f96e03ae53",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_00e82f2d-b87f-43fe-badd-83ffd95ff099.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_00e82f2d-b87f-43fe-badd-83ffd95ff099.git",
+      "name": "MiNodoEdge",
+      "alias": "MiNodoEdge"
+    },
+    {
+      "app_id": "app_3f38ab73-658b-4d8e-9bd8-9bc52d704a9a",
+      "org_id": "user_53eee219-5d7e-4899-8fc8-70f96e03ae53",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_3f38ab73-658b-4d8e-9bd8-9bc52d704a9a.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_3f38ab73-658b-4d8e-9bd8-9bc52d704a9a.git",
+      "name": "NewNodeEdge",
+      "alias": "NewNodeEdge"
+    }
+  ]
+}
